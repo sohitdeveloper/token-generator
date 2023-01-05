@@ -1,0 +1,16 @@
+.child {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 10px;
+}
+
+.btn {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px 10px;
+}
+.name {
+  display: flex;
+  align-items: center;
+  text-align: initial;
+}
